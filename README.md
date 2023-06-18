@@ -1,11 +1,11 @@
-About r-rfoc
-============
+About r-rfoc-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rfoc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RFOC
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rfoc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Graphics for statistics on a sphere, as applied to geological fault data, crystallography, earthquake focal mechanisms, radiation patterns, ternary plots and geographical/geological maps.  Non-double couple plotting of focal spheres and source type maps are included for statistical analysis of moment tensors.
 
